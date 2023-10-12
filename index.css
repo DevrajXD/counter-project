@@ -4,6 +4,7 @@ body {
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
     height: 100vh;
+    margin-block-start: 100px;
 }
 
 .container {
